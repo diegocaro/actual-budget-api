@@ -1,3 +1,6 @@
+Archived in favor of Actual Sync CLI: https://actualbudget.org/docs/api/cli
+
+
 # 🏦 Actual API
 
 > API REST para integración directa con Actual Budget
